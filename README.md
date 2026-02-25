@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F06292,100:E3F2FD&height=100&section=header&text=Hey!%20I'm%20Lilly%20👋&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=70&desc=she/her&descAlignY=100&descAlign=97&descSize=15" />
 
